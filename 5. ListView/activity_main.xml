@@ -1,0 +1,7 @@
+<LinearLayout
+	
+	<ListView
+		android:id="@+id/list"
+	</ListView>
+
+</LinearLayout>
