@@ -1,0 +1,9 @@
+<LinearLayout
+
+	<Button
+		android:id="@+id/btn_move"/>    // 버튼
+	
+	<EditText
+		android:id="@+id/et_test" />    // 이동할 데이터
+
+</LinearLayout>
